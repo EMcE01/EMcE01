@@ -8,13 +8,14 @@ Welcome to my GitHub portfolio repository! I am currently studying **Computer Sc
 
 | Repository     | Primary Tech | Category                                      |
 |---------------|-------------|-----------------------------------------------|
-| [Receipt](#checkoutReceipt) | JavaScript | CSC465 Advanced Web Development CHs 1, 2|
-| [FlashCards](#flashCards) | JavaScript | CSC465 Advanced Web Development CHs 3, 4|
-| [HotCold](#HotCold) | JavaScript | CSC465 Advanced Web Development CH 5|
-| [SmartwatchFAQ](#SmartwatchFAQ) | JavaScript | CSC465 Advanced Web Development CH 6|
-| [Retirement](#RetirementCountdown) | JavaScript | CSC465 Advanced Web Development CHs 8, 9, 10|
-| [MovieTracker](#movietracker) | JavaScript | CSC465 Advanced Web Development CHs 11, 12, 13|
-| [Trivia](#Trivia) | JavaScript | CSC465 Advanced Web Development CHs 14, 15|
+| [Receipt](#chs-12-checkout-receipt) | JavaScript | CSC465 Advanced Web Development CHs 1, 2|
+| [FlashCards](#chs-34-flashcards) | JavaScript | CSC465 Advanced Web Development CHs 3, 4|
+| [HotCold](#ch-5-hot-or-cold) | JavaScript | CSC465 Advanced Web Development CH 5|
+| [SmartwatchFAQ](#ch-6-faq) | JavaScript | CSC465 Advanced Web Development CH 6|
+| [Retirement](#chs-8910-retirement-countdown) | JavaScript | CSC465 Advanced Web Development CHs 8, 9, 10|
+| [MovieTracker](#chs-111213-movie-tracker) | JavaScript | CSC465 Advanced Web Development CHs 11, 12, 13|
+| [Trivia](#chs-1415-trivia-game) | JavaScript | CSC465 Advanced Web Development CHs 14, 15|
+
 
 ---
 
