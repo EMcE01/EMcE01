@@ -24,8 +24,7 @@ Welcome to my GitHub portfolio repository! I am currently studying **Computer Sc
 ---
 
 ### **CHs 1/2 Checkout Receipt**
-# 🔝 Back to Top
-[Return to Top](#-developer-portfolio-gateway)
+[🔝 Back to Top](#-developer-portfolio-gateway)
 
 - **Short Summary:**
 Calculates and displays a receipt based on the user's input of the item, quantity, cost, and payment.
@@ -52,8 +51,7 @@ Calculates and displays a receipt based on the user's input of the item, quantit
 ---
 
 ### **CHs 3/4 Flashcards**
-# 🔝 Back to Top
-[Return to Top](#-developer-portfolio-gateway)
+[🔝 Back to Top](#-developer-portfolio-gateway)
 
 - **Short Summary:**
 Receives and stores questions and answers from the user to use as study prep
@@ -80,8 +78,7 @@ Receives and stores questions and answers from the user to use as study prep
 ---
 
 ### **CH 5 Hot or Cold**
-# 🔝 Back to Top
-[Return to Top](#-developer-portfolio-gateway)
+[🔝 Back to Top](#-developer-portfolio-gateway)
 
 - **Short Summary:**
 Generates a random number between 1 and 100 and displays the proximity of the user's guess.
@@ -108,8 +105,7 @@ Generates a random number between 1 and 100 and displays the proximity of the us
   ---
 
 ### **CH 6 FAQ**
-# 🔝 Back to Top
-[Return to Top](#-developer-portfolio-gateway)
+[🔝 Back to Top](#-developer-portfolio-gateway)
 
 - **Short Summary:**
 Displays commonly asked questions to be clicked and then expands to reveal the answer while changing the image.
@@ -136,8 +132,7 @@ Displays commonly asked questions to be clicked and then expands to reveal the a
   ---
 
 ### **CHs 8/9/10 Retirement Countdown**
-# 🔝 Back to Top
-[Return to Top](#-developer-portfolio-gateway)
+[🔝 Back to Top](#-developer-portfolio-gateway)
 
 - **Short Summary:**
 Calculates the user's funds over a set period of time based on the user's investment, APY, and how many years they have before retirement.
@@ -164,8 +159,7 @@ Calculates the user's funds over a set period of time based on the user's invest
   ---
 
 ### **CHs 11/12/13 Movie Tracker**
-# 🔝 Back to Top
-[Return to Top](#-developer-portfolio-gateway)
+[🔝 Back to Top](#-developer-portfolio-gateway)
 
 - **Short Summary:**
 Receives user input of movie title, genre, and rating. It then displays them in a list.
@@ -192,8 +186,7 @@ Receives user input of movie title, genre, and rating. It then displays them in 
     ---
 
 ### **CHs 14/15 Trivia Game**
-# 🔝 Back to Top
-[Return to Top](#-developer-portfolio-gateway)
+[🔝 Back to Top](#-developer-portfolio-gateway)
 
 - **Short Summary:**
 Pulls data from a public API and displays one question at a time while asking the user T or F.
