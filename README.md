@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 College Senior
 --------------
 
-I have been learning to code for 4 years now. I have ambition to be a back-end developer or tester as I like to either be making things work or breaking them.
+I have been learning to code for 4 years now. I have ambition to be a back-end developer or tester as I like to either be making things work or make them stop working.
 
 * 🌍  I'm based in Earth
 * ✉️  You can contact me at [etmcev01@wsc.edu](mailto:etmcev01@wsc.edu)
