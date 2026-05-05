@@ -1,6 +1,6 @@
 # 🎓 Developer Portfolio: Gateway
 
-Welcome to my GitHub portfolio repository! I am currently studying **Computer Science** and **Computer Information Systems** at *Wayne State College*. This gateway serves as a central directory to navigate my coursework, showcasing my development across both enterprise computing and modern web applications.
+Welcome to my GitHub portfolio repository! I am currently studying **Computer Science** at *Wayne State College*. This gateway serves as a central directory to navigate my coursework, showcasing my development across  modern web applications.
 
 ---
 
